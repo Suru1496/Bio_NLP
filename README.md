@@ -2,11 +2,7 @@
 
 # 🧬 BioNLP Platform
 
-### Intelligent Bioinformatics Workflow System
-
 <p align="center">
-
-<img src="images/banner.png" width="1000"/>
 
 </p>
 
@@ -16,7 +12,6 @@
 ![Flask](https://img.shields.io/badge/Framework-Flask-black?style=flat-square&logo=flask)
 ![BioPython](https://img.shields.io/badge/BioPython-Sequence%20Analysis-green?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-LLM-purple?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 </div>
 
