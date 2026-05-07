@@ -62,16 +62,6 @@ through a unified and interactive dashboard.
 
 ---
 
-# 🖥️ Application Interface
-
-<div align="center">
-
-<img src="images/interface.png" width="950"/>
-
-</div>
-
----
-
 # 🏗️ System Design
 
 ```text
