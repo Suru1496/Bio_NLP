@@ -280,19 +280,6 @@ Interactive Visualization
 
 ---
 
-# 🚀 Future Expansion
-
-- Protein Structure Visualization
-- BLAST Integration
-- NCBI Connectivity
-- Literature Mining
-- PDF Report Generation
-- Multi-omics Support
-- Interactive Tree Visualization
-- Workflow Persistence
-- Cloud Deployment
-
----
 
 
 # 📜 License
