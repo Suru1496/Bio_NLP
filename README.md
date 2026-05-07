@@ -280,14 +280,6 @@ Interactive Visualization
 
 ---
 
-
-
-# 📜 License
-
-MIT License
-
----
-
 <div align="center">
 
 ### BioNLP Platform
