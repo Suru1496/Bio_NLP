@@ -116,11 +116,6 @@ BioNLP_Platform/
 │
 ├── results/
 │
-├── images/
-│   ├── banner.png
-│   ├── interface.png
-│   └── architecture.png
-│
 ├── requirements.txt
 │
 └── README.md
@@ -314,23 +309,6 @@ Interactive Visualization
 
 ---
 
-# 📸 Screenshots
-
-<div align="center">
-
-<img src="images/dashboard.png" width="950"/>
-
-</div>
-
----
-
-# 🤝 Contributions
-
-Contributions, feature requests, and workflow improvements are welcome.
-
-Fork the repository and submit a pull request.
-
----
 
 # 📜 License
 
@@ -344,6 +322,5 @@ MIT License
 
 Computational Biology • NLP • Interactive Bioinformatics
 
-<img src="images/footer.png" width="850"/>
 
 </div>
